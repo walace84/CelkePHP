@@ -1,0 +1,21 @@
+.fundo{
+	
+}
+.container{
+	margin: center;
+	max-width: 400px;
+	height: 300px;
+	margin-top: 100px;
+	border-style: solid;
+	border-color: #ccc;
+}
+
+.login{
+	max-width: 400px;
+	height: 40px;
+}
+
+.head{
+	max-width: 400px;
+	text-align: center;
+}
